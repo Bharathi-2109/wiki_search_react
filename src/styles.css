@@ -1,0 +1,29 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.Heading {
+  text-align: center;
+}
+
+.odd {
+  background-color: wheat;
+  font-size: 30px;
+}
+
+.even {
+  background-color: turquoise;
+  font-size: 30px;
+}
+a.link {
+  text-color: violet;
+}
+a.visited {
+  text-color: green;
+}
+a.hover {
+  text-color: yellow;
+}
+a.active {
+  text-color: red;
+}
